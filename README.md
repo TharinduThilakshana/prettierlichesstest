@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/SriMethan/prettierlichesstest/actions/workflows/node.js.yml/badge.svg)](https://github.com/SriMethan/prettierlichesstest/actions/workflows/node.js.yml)
 
 # Prettier Lichess
 
